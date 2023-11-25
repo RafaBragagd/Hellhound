@@ -76,7 +76,7 @@ Ao se afastar do rio, um hellhound ataca. Quando o protagonista morrer, a tela d
 O protagonista se mantém escondido até que um dos demônios seja derrotado e o outro voe para longe. A missão é atualizada, instruindo-o a comer o demônio derrotado. Ao fazê-lo, o totem se ilumina e se comunica com o protagonista, aceitando o sacrifício e concedendo uma das habilidades do demônio.
 
 A primeira habilidade adquirida permite renascer com fome, sede e vida cheias, temperatura neutra e cansaço zerado. Com essa etapa concluída, o protagonista pode sair da caverna e iniciar sua jornada no jogo.
-## Personagens
+## Entidades
 
 ### Chefões
 
@@ -116,6 +116,21 @@ O jogo apresentará sete Chefões, cada um representando um dos sete príncipes 
 - *Aparência:* Homem musculoso com cabelos brancos, ar de autoridade, dois pares de chifres e asas de morcego vermelhas.
 - *Ataques:*
   - *Personificação do Orgulho:* Atributos extremamente altos, mas a falha em suas funções leva à diminuição desses atributos.
+
+### Mobs
+
+#### Hellhound
+
+Os hellhounds são a denominação dada para os espíritos humanos, sendo a criatura mais comum do inferno e também a de hierarquia mais baixa. Não possuem habilidades especiais, contando apenas com suas capacidades físicas para realizar ataques com os punhos ou criar armas simples.
+
+#### Mortifagos
+
+Os mortifagos são demônios de hierarquia baixa. Sua aparência é levemente mais magra, com uma barriga proeminente, um par de chifres formando um giro nas laterais da cabeça, asas, dentes pontiagudos por toda a extensão da boca e longas garras nos dedos. A coluna é levemente curvada para frente. Essa criatura pode atacar com suas garras quando está próxima ao alvo, mas sua especialidade é atacar com bolas de fogo, mantendo distância.
+
+#### Cerberus
+
+Os cerberus são hellhounds que sucumbiram à loucura e assumiram a forma de cachorros, conforme suas alcunhas os denominavam. Existem dois tipos de cerberus: o primeiro e mais fraco possui uma única cabeça, com chamas serpenteando o pelo. O segundo, mais poderoso, é o cerberus completo, com três cabeças. Suas bocas e vértebras brilham escarlate, como se estivessem pegando fogo.
+Essas criaturas podem pular nos seus alvos e atacar com suas garras, assim como lançar poderosas rajadas de fogo pela boca, o cerberus completo pode lançar por todas as cabeças o que faz com que a rajada abranja uma área muito maior.
 
 ## Cenários
 
